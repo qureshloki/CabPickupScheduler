@@ -1,6 +1,6 @@
 #### Description:
 
-<p>This is a small spring boot application which simulates the booking of a cab by a customer. Based on the pickup location of the customer, the availability of drivers & the current location of the drivers, the system assigns drivers to pickup the customers.</p>
+<p>This is a small Spring Boot and Reactjs application which simulates the booking of a cab by a customer. Based on the pickup location of the customer, the availability of drivers & the current location of the drivers, the system assigns drivers to pickup the customers.</p>
 <p>The app was coded as part of an interview assignment.</p>
 
 #### Given Requirements:
